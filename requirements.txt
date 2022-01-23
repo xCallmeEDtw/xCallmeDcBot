@@ -1,0 +1,13 @@
+gunicorn
+flask
+Flask-APScheduler
+flask-sqlalchemy
+psycopg2-binary
+requests2
+beautifulsoup4
+Flask-Mail
+APScheduler
+selenium
+lxml
+discord
+youtube_dl
